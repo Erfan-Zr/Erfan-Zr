@@ -2,7 +2,7 @@
 
 My Name is Erfan Zarei
 
-I'm Junior Front-end Developer 
+I'm junior Front-end Developer 
 
 I Have Experience With React And Currntly Practicing with Angular
 
