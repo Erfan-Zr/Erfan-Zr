@@ -2,9 +2,9 @@
 
 My Name is Erfan Zarei
 
-I'm junior Front-end Developer 
+I Have Experience With React And Currntly Working with Angular
 
-I Have Experience With React And Currntly Practicing with Angular
+I'm Currently Front-end Developer at Gardeshpay (angular) 
 
 📧 Mail Address : lockelerz@gmail.com
 
